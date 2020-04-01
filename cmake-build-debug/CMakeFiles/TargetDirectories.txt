@@ -1,0 +1,3 @@
+C:/Users/kacpe/CLionProjects/pola_bryl/cmake-build-debug/CMakeFiles/pola_bryl.dir
+C:/Users/kacpe/CLionProjects/pola_bryl/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kacpe/CLionProjects/pola_bryl/cmake-build-debug/CMakeFiles/rebuild_cache.dir
