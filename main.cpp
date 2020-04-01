@@ -61,7 +61,7 @@ int main() {
 //            licz2();
             break;
         default:
-            cout << "Wprowadziles bledna odpowiedz" << endl;
+            cout << "Wprowadzile bledna odpowiedz" << endl;
     }
     return 0;
 }
